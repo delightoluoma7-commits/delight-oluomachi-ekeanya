@@ -16,7 +16,7 @@ This is my personal portfolio website built for my CSC106 assessment.
 - HTML, CSS, JavaScript
 
 ### Live Website:
-👉 [Click here to view my portfoli] delightoluoma7@gmail.com
+👉 [Click here to view my portfoiol]https://delightoluoma7.github.io/delight-oluomachi-ekeanya/
 
 ### My New Interest:
 Currently learning Cyber Security — Training to become a SOC Analyst (Security Operations Center).
